@@ -8,9 +8,9 @@
 2. Favorite stuff _not plagurized_..
 3. Images **Very Original**...
 ###Themes include:
-*Arnold Schwarzenegger
-*Carnivores
-*Anti-semites
+* Arnold Schwarzenegger
+* Carnivores
+* Anti-semites
 
 Copyright &copy; 2016 Patrick L. & Sam P.
 
@@ -18,16 +18,16 @@ This software is licensed under the Lord of the Rings license
 
 
 Technology used
-  *AI
-  *Markdown
-  *Coffee
+  * AI
+  * Markdown
+  * Coffee
 
 Known bugs
-  *Impossible
-  *Possible indigestion from _Indian food_
+  * Impossible
+  * Possible indigestion from _Indian food_
 
 Contact information
-  ***911**
+  * **911**
 
 Support
-  *Epicodus _available 24/7_
+  * Epicodus _available 24/7_
